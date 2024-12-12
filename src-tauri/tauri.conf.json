@@ -7,7 +7,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "jolly-timer",
+    "productName": "Jolly Timer",
     "version": "0.1.0"
   },
   "tauri": {
@@ -23,7 +23,7 @@
     },
     "windows": [
       {
-        "title": "jolly-timer",
+        "title": "Jolly Timer",
         "decorations": false,
         "transparent": true,
         "resizable": true,
